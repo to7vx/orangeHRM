@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Cypress videos and screenshots (generated when tests run)
+cypress/videos/
+cypress/screenshots/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
